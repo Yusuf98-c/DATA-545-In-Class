@@ -1,1 +1,4 @@
 hi teacher 
+cd DATA-545-In-Class
+git commit -m this is a test
+git push  
